@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/JoelJoby/KCC24/issues"
   },
-  "homepage": "https://github.com/JoelJoby/KCC24#readme"
+  "homepage": "https://github.com/JoelJoby/KCC24#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "bootstrap": "^5.3.3",
+    "flowbite": "^2.3.0",
+    "tailwindcss": "^3.4.4",
+    "taos": "^1.0.5"
+  }
 }
